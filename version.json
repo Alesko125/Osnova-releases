@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "2.0",
-  "apk_url": "https://github.com/Alesko125/Osnova-releases/releases/download/v2.0/Osnova-tv-v2.0.apk",
+  "version_code": 3,
+  "version_name": "2.1",
+  "apk_url": "https://github.com/Alesko125/Osnova-releases/releases/download/v2.1/Osnova-tv-v2.1.apk",
   "mandatory": false,
-  "notes": "Поточна версія застосунку."
+  "notes": "Вхід тепер захищений: пароль або відбиток при кожному відкритті."
 }
