@@ -1,8 +1,8 @@
 {
-  "version_code": 4,
-  "version_name": "2.2",
-  "apk_url": "https://github.com/Alesko125/Osnova-releases/releases/download/v2.2/Osnova-tv-v2.2.apk",
-  "sha256": "50532fbad89b69378374739ecd3f37db878f658eda44a03585ee9954284c3733",
+  "version_code": 5,
+  "version_name": "2.3",
+  "apk_url": "https://github.com/Alesko125/Osnova-releases/releases/download/v2.3/Osnova-tv-v2.3.apk",
+  "sha256": "77f76fe1e06c65ceadb82fcd57e7f2ffe46daff26a395e107b9f991bab511df5",
   "mandatory": false,
-  "notes": "Оновлення тепер завантажується всередині застосунку."
+  "notes": "Вихід із застосунку тепер відв'язує пристрій від сповіщень."
 }
